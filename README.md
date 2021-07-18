@@ -1,6 +1,6 @@
 # BEYOND- YOUR ONE STOP WEB-APP FOR INTERGALACTIC TRAVEL
 # Inspiration
-The idea of space travel always feels fascinating. NASA's recent project(Perseverance Rover)which took human names to Mars and also issued boarding passes for fellow humans initiating loads of hope and curiosity was the inspiration for this web-app
+The idea of space travel always feels fascinating. NASA's recent project(Perseverance Rover)which took human names to Mars and also issued boarding passes for fellow humans initiated loads of hope and curiosity was the inspiration for this web-app
 # What it does
 This website is for booking tickets for exoplanet travel.
 Users can choose their starting location from one of the spaceport options and decide their location as well as book their seats on various rocket options available.
